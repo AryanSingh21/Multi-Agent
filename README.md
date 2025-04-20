@@ -46,7 +46,7 @@ The Real Estate Assistant is a Streamlit web application that uses multiple spec
 3. Set up your environment variables:
 
    ```bash
-   export GROQ_API_KEY="your_groq_api_key"
+   export GROQ_API_KEY="your_groq_api_key" (for now hard coded for quick review)
    ```
 
    Or create a `.streamlit/secrets.toml` file:
@@ -73,10 +73,6 @@ The Real Estate Assistant is a Streamlit web application that uses multiple spec
 - "Is my landlord responsible for fixing the refrigerator?"
 - "What should I include in a lease agreement for my rental property?"
 - "How do I address mold growing in the bathroom?"
-
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
